@@ -1,0 +1,32 @@
+[
+  {
+    "uuid": "66d4008f-e6b8-4523-83bc-04c62e417672",
+    "name": "Da1ya",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "14e6d351-678a-415f-8337-7a94536a2ad4",
+    "name": "Live_Dimensions",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "0cfc844b-023d-4674-a214-196234da7efe",
+    "name": "SerexG",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f91bb0e8-a475-4334-9865-783a2fdaa50d",
+    "name": "DavidMIX",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "21f4b008-5396-4223-8509-ed39d475324c",
+    "name": "DatQuesadillaTho",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
